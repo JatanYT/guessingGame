@@ -1,5 +1,5 @@
 - Introduction
-  - This is a Terminal based number Guessing Game program made using C++. You get 9 chances to guess the number (which is generated between the limits of 1 and 100).
+  - This is a Terminal-based Number-Guessing-Game made using C++. You get 9 chances to guess the number (which is generated between the limits of 1 and 100).
 - Background
   - C++'s Random library is used to generate random numbers and the Mersenne Twister Engine is used but any other Uniform Random Number Generator (UNRG) can be used. For more info on the random library, you can use https://cplusplus.com/reference/random/ as a reference.
   - Other advanced random number generators like the Xoshiro 256 may be used for other advanced use cases but in this case, such high efficiency was not required in the program. 
